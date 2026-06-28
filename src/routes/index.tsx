@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "The Lantern Ledger" },
+      { title: "The Lantern Ledger Test" },
       {
         name: "description",
         content:
